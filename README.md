@@ -11,7 +11,7 @@
 * 加入算法学习社区，相互鼓励学习(加我vx:tiger-ran, 备注入群理由, 拉你入群)   
 * 看经典书籍  
 * 刷题   
-
+http://wiki.jikexueyuan.com/project/step-by-step-learning-algorithm/two-way-linked-list.html
 
 ## 基本数据结构和算法
 
